@@ -1,0 +1,8 @@
+
+isquid:S00116"QRename this field "btn_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÖ¸Ñ
+;squid:S1659"$Declare "btn_no" on a separate line.(õÖ¸Ñ
+Bsquid:S00108è")Either remove or fill this block of code.(ÙªËø
+isquid:S00116"QRename this field "btn_ok" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÖ¸Ñ
+?squid:S1659"(Declare "btn_cancel" on a separate line.(õÖ¸Ñ
+>squid:S1659"'Declare "mainTitle" on a separate line.(—¶àÿ
+msquid:S00116"URename this field "btn_cancel" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õÖ¸Ñ

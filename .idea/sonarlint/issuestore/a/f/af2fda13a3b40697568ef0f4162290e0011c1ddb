@@ -1,0 +1,7 @@
+
+Dsquid:S1068"-Remove this unused "mainTitle" private field.(—¶àÿ
+nsquid:S00116"QRename this field "btn_ok" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÐáÄýÿÿÿÿ
+nsquid:S00116"QRename this field "btn_no" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŽÐáÄýÿÿÿÿ
+Asquid:S00108R")Either remove or fill this block of code.(ÙªËø
+@squid:S1659"$Declare "btn_no" on a separate line.(ŽÐáÄýÿÿÿÿ
+>squid:S1659"'Declare "mainTitle" on a separate line.(—¶àÿ

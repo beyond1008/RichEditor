@@ -1,0 +1,9 @@
+
+Hsquid:S3398}",Move this method into "EditorWebViewClient".(Ó§èƒÿÿÿÿÿ
+V"squid:SwitchLastCaseIsDefaultCheck™""Add a default case to this switch.(±èÄßÿÿÿÿÿ
+gsquid:CommentedOutCodeLineh"<This block of commented-out lines of code should be removed.(Ÿ¸Š–þÿÿÿÿ
+Isquid:S3398„",Move this method into "EditorWebViewClient".(–èˆ²ýÿÿÿÿ
+wsquid:S1192·"_Define a constant instead of duplicating this literal "javascript:RE.prepareInsert();" 9 times.(¾–Žœ
+csquid:S1192Ë"FDefine a constant instead of duplicating this literal "px');" 4 times.(È¹­»ûÿÿÿÿ
+@squid:S1185Ý"(Remove this method to simply inherit it.(Æ˜Ù†
+dsquid:S1192Ð"GDefine a constant instead of duplicating this literal "px', '" 3 times.( ®‰ñüÿÿÿÿ

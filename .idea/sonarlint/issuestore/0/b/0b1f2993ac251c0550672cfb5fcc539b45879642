@@ -1,0 +1,20 @@
+
+hsquid:CommentedOutCodeLine»"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+Vsquid:S1155§">Use isEmpty() to check whether the collection is empty or not.(Ö¤ôû
+csquid:CommentedOutCodeLine‹"<This block of commented-out lines of code should be removed.(Ğë¯¯
+bsquid:CommentedOutCodeLinek"<This block of commented-out lines of code should be removed.(µ›±å
+‡squid:S1319¯"pThe return type of this method should be an interface such as "List" rather than the implementation "ArrayList".(Ë‡¬|
+isquid:S3776Z"RRefactor this method to reduce its Cognitive Complexity from 21 to the 15 allowed.(àÉÖ®
+hsquid:CommentedOutCodeLine©"<This block of commented-out lines of code should be removed.(ûŠ”¾ûÿÿÿÿ
+Osquid:S1135¸"2Complete the task associated to this TODO comment.(šÀíÛúÿÿÿÿ
+bsquid:CommentedOutCodeLine‚"<This block of commented-out lines of code should be removed.(¦¼›r
+=squid:S2116"%Use "Arrays.toString(array)" instead.(£‡‡
+isquid:S3776¯"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(Ë‡¬|
+csquid:CommentedOutCodeLineÓ"<This block of commented-out lines of code should be removed.(¦‡ü
+[squid:S1155¾">Use isEmpty() to check whether the collection is empty or not.(áÑ½½üÿÿÿÿ
+[squid:S1155Ã">Use isEmpty() to check whether the collection is empty or not.(ÁÁ¶®úÿÿÿÿ
+Bsquid:S2116"%Use "Arrays.toString(array)" instead.(§æ­ôûÿÿÿÿ
+hsquid:CommentedOutCodeLine’"<This block of commented-out lines of code should be removed.(†½½ÿÿÿÿÿ
+Usquid:S1172Ô"8Remove this unused method parameter "requestPermission".(¨Ô÷åûÿÿÿÿ
+Csquid:S1168½"+Return an empty collection instead of null.(¥¹ï
+ssquid:S3252v"\Use static access with "android.support.v4.content.ContextCompat" for "checkSelfPermission".(šØ¾Ò

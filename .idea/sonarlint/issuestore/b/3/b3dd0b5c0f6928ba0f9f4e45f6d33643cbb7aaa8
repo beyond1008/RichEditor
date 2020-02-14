@@ -1,0 +1,66 @@
+
+…"squid:ClassVariableVisibilityCheck"WMake ADD_ARTICLE a static final constant or non-public and provide accessors if needed.(×úÄ
+hsquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(Äó‹ûÿÿÿÿ
+Isquid:S1659"-Declare "isStrikeThrough" on a separate line.(Ôß¤¢ûÿÿÿÿ
+Gsquid:S1172Ö"(Remove this unused method parameter "v".(ºƒÍÙ8Íñî†ü-
+Esquid:S1659")Declare "isUnderline" on a separate line.(Ôß¤¢ûÿÿÿÿ
+Esquid:S1172ã"(Remove this unused method parameter "v".(ˆ¨«‹úÿÿÿÿ
+@squid:S1172ÿ"(Remove this unused method parameter "v".(Íéµ
+Esquid:S1172ú"(Remove this unused method parameter "v".(úÀ†şşÿÿÿÿ
+Esquid:S1172ä"(Remove this unused method parameter "v".(èµ™¿ıÿÿÿÿ
+Esquid:S1172ƒ"(Remove this unused method parameter "v".(£ïœÔıÿÿÿÿ
+Esquid:S1172Õ"(Remove this unused method parameter "v".(°¸’äüÿÿÿÿ
+Esquid:S1172‡"(Remove this unused method parameter "v".(‚ß¼ˆşÿÿÿÿ
+Lsquid:S1066°"/Merge this if statement with the enclosing one.(›Ïÿµûÿÿÿÿ
+hsquid:CommentedOutCodeLineë"<This block of commented-out lines of code should be removed.(Ôöãúÿÿÿÿ
+Dsquid:S1659"(Declare "isHeading3" on a separate line.(È±¡ƒøÿÿÿÿ
+isquid:CommentedOutCodeLineX"<This block of commented-out lines of code should be removed.(®ƒ÷8†ä¦¼û-
+Dsquid:S1659"(Declare "isHeading6" on a separate line.(È±¡ƒøÿÿÿÿ
+isquid:CommentedOutCodeLine^"<This block of commented-out lines of code should be removed.(¦…Í°8†ä¦¼û-
+@squid:S1172ï"(Remove this unused method parameter "v".(Ãîôş
+Esquid:S1068!")Remove this unused "title" private field.(åõò¹ıÿÿÿÿ
+Esquid:S1172‡"(Remove this unused method parameter "v".(ìíœÿüÿÿÿÿ
+@squid:S1172Û"(Remove this unused method parameter "v".(¹ĞşÁ
+V"squid:SwitchLastCaseIsDefaultCheckº""Add a default case to this switch.(×ö³–úÿÿÿÿ
+Fsquid:S1659"*Declare "isAlignRight" on a separate line.(ˆ‰éÊûÿÿÿÿ
+Esquid:S1172á"(Remove this unused method parameter "v".(¹‹¢ıÿÿÿÿ
+@squid:S1172•"(Remove this unused method parameter "v".(ÑºÌ–
+Esquid:S1172£"(Remove this unused method parameter "v".(Ñ¤Ëıÿÿÿÿ
+isquid:CommentedOutCodeLineA"<This block of commented-out lines of code should be removed.(â—8†ä¦¼û-
+Bsquid:S1659"&Declare "isItalic" on a separate line.(Ôß¤¢ûÿÿÿÿ
+Gsquid:S1659"+Declare "isSuperscript" on a separate line.(Ôß¤¢ûÿÿÿÿ
+Esquid:S1172¹"(Remove this unused method parameter "v".(õ‘Ïãûÿÿÿÿ
+Esquid:S1172Ë"(Remove this unused method parameter "v".(¾†“ôúÿÿÿÿ
+csquid:CommentedOutCodeLine›"<This block of commented-out lines of code should be removed.(…Ö¡€
+Esquid:S1172¾"(Remove this unused method parameter "v".(†î‡Ôüÿÿÿÿ
+Esquid:S1659")Declare "isSubscript" on a separate line.(Ôß¤¢ûÿÿÿÿ
+Bsquid:S1068"+Remove this unused "imgPath" private field.(†ôáò
+Ysquid:UnusedPrivateMethodÍ".Remove this unused private "uploadPic" method.(¬í¸™øÿÿÿÿ
+@squid:S1172ç"(Remove this unused method parameter "v".(î£™»
+nsquid:CommentedOutCodeLinec"<This block of commented-out lines of code should be removed.(ÃáùÊúÿÿÿÿ8†ä¦¼û-
+csquid:CommentedOutCodeLineÍ"<This block of commented-out lines of code should be removed.(…Ö¡€
+Gsquid:S1659"+Declare "isAlignCenter" on a separate line.(ˆ‰éÊûÿÿÿÿ
+Dsquid:S1659"(Declare "isHeading5" on a separate line.(È±¡ƒøÿÿÿÿ
+?squid:S1172Ü"(Remove this unused method parameter "v".(™¿¹_
+@squid:S1172î"(Remove this unused method parameter "v".(Ïë”
+isquid:CommentedOutCodeLine5"<This block of commented-out lines of code should be removed.(ŠÏÁ„8†ä¦¼û-
+nsquid:S00116"VRename this field "ADD_ARTICLE" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×úÄ
+?squid:S1172±"(Remove this unused method parameter "v".(Ñ‰Ân
+Esquid:S1172Ç"(Remove this unused method parameter "v".(Æ‹Éšıÿÿÿÿ
+Dsquid:S1659"(Declare "isHeading2" on a separate line.(È±¡ƒøÿÿÿÿ
+Esquid:S1172÷"(Remove this unused method parameter "v".(†‚¦‚ıÿÿÿÿ
+Esquid:S1172ª"(Remove this unused method parameter "v".(Àáç¥ÿÿÿÿÿ
+Dsquid:S1659"(Declare "isHeading4" on a separate line.(È±¡ƒøÿÿÿÿ
+isquid:CommentedOutCodeLine2"<This block of commented-out lines of code should be removed.(¨ª³Î8†ä¦¼û-
+isquid:CommentedOutCodeLineU"<This block of commented-out lines of code should be removed.(ĞãÑ¤8†ä¦¼û-
+™squid:S1186×"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(‘®™
+8squid:S3626Î"Remove this redundant jump.(ÌëÿÙøÿÿÿÿ
+Csquid:S1659"'Declare "isNumbers" on a separate line.(ˆ‰éÊûÿÿÿÿ
+?squid:S1172Ÿ"(Remove this unused method parameter "v".(¿¼ÿP
+@squid:S1172”"(Remove this unused method parameter "v".(¹…‡Ó
+@squid:S1172ñ"(Remove this unused method parameter "v".(úÜ²–
+Csquid:S1659"'Declare "isBullets" on a separate line.(ˆ‰éÊûÿÿÿÿ
+?squid:S3398‡""Move this method into "Presenter".(ª«Ò‰ûÿÿÿÿ
+@squid:S1172à"(Remove this unused method parameter "v".(ËÜÃÒ
+?squid:S3398ı""Move this method into "Presenter".(–µùÜÿÿÿÿÿ
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(Õüƒñıÿÿÿÿ
